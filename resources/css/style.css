@@ -15,3 +15,8 @@ p {
   font-size: 21px;
   color: gray;
 }
+footer {
+  text-align: right;
+  text-size: 12px;
+  color: gray;
+}
