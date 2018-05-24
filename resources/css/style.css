@@ -1,4 +1,17 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
+}
+h1,h2 {
+  color: white;
+  text-align: center;
+}
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+p {
+  font-size: 21px;
+  color: gray;
 }
